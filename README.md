@@ -58,15 +58,15 @@ The following are my EDA questions:
 
 
 ## Analysis Tools & Techniques
-Jupyter Notebook: Used for data cleaning, exploratory analysis, and visualization.
+- Jupyter Notebook: Used for data cleaning, exploratory analysis, and visualization.
 
-Tableau: Used for advanced data visualization and dashboard creation for stakeholders. The link to my dashboard is: https://public.tableau.com/app/profile/edna.maina/viz/ProjeectDashboard/Dashboard1?publish=yes
+- Tableau: Used for advanced data visualization and dashboard creation for stakeholders. The link to my dashboard is: https://public.tableau.com/app/profile/edna.maina/viz/ProjeectDashboard/Dashboard1?publish=yes
 
 Python Libraries:
 
-Pandas (data manipulation)
+- Pandas (data manipulation)
 
-Matplotlib & Seaborn (data visualization)
+- Matplotlib & Seaborn (data visualization)
 
-NumPy (numerical operations)
+- NumPy (numerical operations)
 
